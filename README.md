@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matt-kay
 - 👀 I’m interested in Software engineering, Mobile development, Mechatronics
-- 🌱 I’m currently learning kotlin, flutter
-- 💞️ I’m looking to collaborate on mobile development
+- 🌱 I’m currently learning machine learning and computer vision
+- 💞️ I’m looking to collaborate on mobile and web development
 - 📫 How to reach me kayodematthew56@gmail.com
 
 <!---

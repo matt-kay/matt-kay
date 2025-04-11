@@ -9,7 +9,7 @@ I'm a passionate **Fullstack Embedded Developer** with a strong focus on **IoT**
 
 ### Frontend
 - **React** – Modern web apps with elegant UIs
-- **Yew (Rust)** – High-performance web frontends
+- **Dioxus (Rust)** – High-performance cross-platform apps with the Rust programming language
 - **SwiftUI** – Native iOS applications
 
 ### Backend

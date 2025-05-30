@@ -17,8 +17,8 @@ I'm a passionate **Fullstack Embedded Developer** with a strong focus on **IoT**
 - **Axum (Rust)** – Type-safe and blazing-fast web backends
 
 ### Embedded & IoT
-- **ESP-IDF (ESP32)** – Building reliable firmware for real-world applications
-- **Embassy (Rust)** – Asynchronous embedded development for the future
+- **ESP-IDF-HAL (Rust + ESP32)** – Building reliable firmware for real-world applications and Asynchronous embedded development for the future.
+- **Arduino (C/C++)** – Fast prototyping and MVP
 
 ---
 

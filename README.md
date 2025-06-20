@@ -9,7 +9,6 @@ I'm a passionate **Fullstack Embedded Developer** with a strong focus on **IoT**
 
 ### Frontend
 - **React** – Modern web apps with elegant UIs
-- **Dioxus (Rust)** – High-performance cross-platform apps with the Rust programming language
 - **SwiftUI** – Native iOS applications
 
 ### Backend
@@ -17,8 +16,9 @@ I'm a passionate **Fullstack Embedded Developer** with a strong focus on **IoT**
 - **Axum (Rust)** – Type-safe and blazing-fast web backends
 
 ### Embedded & IoT
-- **ESP-IDF-HAL (Rust + ESP32)** – Building reliable firmware for real-world applications and Asynchronous embedded development for the future.
-- **Arduino (C/C++)** – Fast prototyping and MVP
+- **ESP-IDF ( C/C++ )** – Building reliable firmware for real-world applications using Esp32 IDF.
+- **ESP-IDF-HAL ( Rust + ESP32-IDF )** – Building memory safe and  reliable firmware for real-world applications using Rust.
+- **Arduino ( C/C++ )** – Fast prototyping and MVP
 
 ---
 

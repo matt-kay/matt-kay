@@ -10,10 +10,17 @@ I'm a passionate **Fullstack Embedded Developer** with a strong focus on **IoT**
 ### Frontend
 - **React** – Modern web apps with elegant UIs
 - **SwiftUI** – Native iOS applications
+- **Nextjs** – The React Framework for the Web
+- **Astro** – The web framework for content-driven websites
 
 ### Backend
 - **NestJS** – Scalable and maintainable Node.js server-side apps
 - **Axum (Rust)** – Type-safe and blazing-fast web backends
+- **Supabase** – Postgres development platform.
+- **Firebase** – Backend infrastructure as a service.
+
+### Cloud
+- **Google Cloud** – a suite of cloud computing services offered by Google.
 
 ### Embedded & IoT
 - **ESP-IDF ( C/C++ )** – Building reliable firmware for real-world applications using Esp32 IDF.

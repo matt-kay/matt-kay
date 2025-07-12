@@ -1,7 +1,7 @@
 
-# Hi there, I'm a Fullstack Embedded Engineer from Nigeria!
+# Hi there, I'm a Fullstack  Engineer from Nigeria!
 
-I'm a passionate **Fullstack Embedded Developer** with a strong focus on **IoT**, **embedded systems**, **web and mobile applications**, and most recently, **AI**. I love building solutions that bridge the physical and digital worlds, from low-level firmware to full-fledged web and mobile applications.
+I'm a passionate **Fullstack  Developer** with a strong focus on  **Backend**, **IoT**, **embedded systems**, and most recently, **AI**. I love building solutions that bridge the physical and digital worlds, from low-level firmware to full-fledged web and mobile applications.
 
 ---
 

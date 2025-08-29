@@ -1,43 +1,33 @@
 
-# Hi there, I'm a Fullstack  Developer from Nigeria!
+# Hi there, I'm a Fullstack  Developer!
 
-I'm a passionate **Fullstack  Developer** with a strong focus on  **Backend**, **IoT**, **embedded systems**, and most recently, **AI**. I love building solutions that bridge the physical and digital worlds, from low-level firmware to full-fledged web and mobile applications.
-
----
-
-## 🚀 Tech Stack
-
-### Frontend
-- **React** – Modern web apps with elegant UIs
-- **SwiftUI** – Native iOS applications
-- **Nextjs** – The React Framework for the Web
-- **Astro** – The web framework for content-driven websites
-
-### Backend
-- **NestJS** – Scalable and maintainable Node.js server-side apps
-- **Axum (Rust)** – Type-safe and blazing-fast web backends
-- **Supabase** – Postgres development platform.
-- **Firebase** – Backend infrastructure as a service.
-
-### Cloud
-- **Google Cloud** – a suite of cloud computing services offered by Google.
-
-### Embedded & IoT
-- **ESP-IDF ( C/C++ )** – Building reliable firmware for real-world applications using Esp32 IDF.
-- **ESP-IDF-HAL ( Rust + ESP32-IDF )** – Building memory safe and  reliable firmware for real-world applications using Rust.
-- **Arduino ( C/C++ )** – Fast prototyping and MVP
+I’m a Full Stack Developer with 5+ years of experience turning ideas into scalable, user-friendly applications. Over the years, I’ve designed and launched 3+ apps from the ground up — handling everything from front-end development and backend architecture to deployment in the cloud. I’m passionate about building reliable, high-performance solutions and enjoy working across the stack, whether it’s crafting intuitive interfaces or optimizing complex APIs. Beyond the code, I thrive in collaborative environments where I can solve problems, share knowledge, and contribute to creating impactful products.
 
 ---
 
-## 💡 What I Do
-- Design and develop **fullstack applications** from concept to deployment
-- Build **IoT systems** and **embedded solutions** for automation, control, and monitoring
-- Integrate **AI-powered features** into products
-- Collaborate with **startups and businesses** to bring their ideas to life
-
+## AREA OF EXPERTISE
+- API Development (REST, GraphQL, gRPC)
+- Cloud Services & Serverless (Firebase, GCP)
+- Front-End Development (Reactjs)
+- Database Design (SQL, NoSQL)
+- Mobile App Development (IOS)
+- Microservices (Apollo federation)
 
 ---
 
+## TECHNICAL PROFICIENCIES
+- Front-End: React, SwiftUI, HTML5, CSS3, JavaScript, TypeScript.
+- Back-End: NestJS, Axum.
+- Microservice: Apollo federation, gRPC.
+- Mobile: iOS Development (Swift, SwiftUI), Firebase Integration.
+- Databases: PostgreSQL, MySQL, MongoDB, Firebase Firestore, Data connect
+- Cloud & DevOps: Firebase, AWS, GCP, Docker, CI/CD Pipelines
+- APIs: RESTful APIs, GraphQL, gRPC
+- Version Control: Git, GitHub
+- Testing: Jest, Cypress, Postman
+- Methodologies: Agile, Scrum, TDD
+
+---
 
 ## 🤝 Let's Work Together
 I'm open to freelance or collaborative opportunities with **startups**, **entrepreneurs**, and **teams** looking to bring their **tech products** to life.

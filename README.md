@@ -38,7 +38,7 @@ I'm open to freelance or collaborative opportunities with **startups**, **entrep
 
 ### 📫 Reach Me
 - GitHub: [matt-kay](https://github.com/matt-kay)
-- LinkedIn: [https://www.linkedin.com/in/mattosha]
+- LinkedIn: [www.linkedin.com/in/matt-kay-vic]
 - Email: [matthewkayode007@gmail.com]
 
 ---

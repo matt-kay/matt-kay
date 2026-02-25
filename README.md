@@ -1,74 +1,40 @@
-# 👋 Hi, I'm Kayode Matthew
+## 🧠 AI/ML Engineer — LLM Systems on Google Cloud
 
-**Software Engineer (Backend) | APIs · Databases · Cloud · LLM Systems (LangChain)**
+AI/ML Engineer with a strong backend foundation, building production-ready LLM systems using **Gemini**, **Vertex AI**, and **Google ADK**.
 
-Backend-focused engineer building scalable, production-grade systems and AI-powered services. I work at the intersection of backend engineering and LLM applications—turning models into reliable product features.
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-- **Node.js / TypeScript** – NestJS
-- **Rust** – Axum
-- **Go** – High-performance services
-- REST APIs, service-oriented architecture
-
-### Data & Infrastructure
-- PostgreSQL, MySQL, MongoDB
-- Redis
-- Cloud-native deployments
-- Docker, CI/CD
-
-### AI / LLM Systems
-- LangChain
-- LLM-powered APIs & workflows
-- Prompt pipelines, tool calling, RAG-style systems
+I focus on turning generative AI into reliable software — designing RAG pipelines, agent workflows with tool calling, and scalable APIs that connect models to real data and services. My backend background helps me ship AI systems with proper architecture: observability, latency control, cost awareness, and clean service boundaries.
 
 ---
 
-## 📊 GitHub Stats
+### 🔧 What I Build
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matt-kay&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt-kay&layout=compact&langs_count=6&theme=default" height="150" />
-</p>
-
----
-
-## 🚀 What I Work On
-- Designing clean, scalable backend APIs
-- Building performant services in Go and Rust
-- Integrating LLMs into real-world applications
-- Improving system reliability, observability, and maintainability
-- Shipping backend features end-to-end
+* Retrieval-Augmented Generation (RAG) systems
+* Agent workflows using Google ADK
+* Tool/function calling pipelines with Gemini
+* LLM-backed APIs (FastAPI / Python)
+* Cloud-native deployments on GCP
+* Evaluation + monitoring for LLM quality
 
 ---
 
-## 📂 Featured Projects
+### ⚙️ Stack
 
-- **🔗 LLM Backend Service**  
-  AI-powered backend API using LangChain with structured outputs and tool calling.
-
-- **⚙️ High-Performance API (Rust / Go)**  
-  Low-latency service built with Axum / Go, focusing on throughput and reliability.
-
-- **🧩 Backend Platform Module**  
-  Reusable NestJS modules for auth, logging, and data access.
+**AI/ML:** Gemini, Vertex AI, Google ADK
+**Backend:** Python, FastAPI
+**Cloud:** GCP (Cloud Run, Cloud Functions, etc.)
+**Data:** PostgreSQL, Redis
 
 ---
 
-## 📈 Engineering Values
-- Simple > clever
-- Performance where it matters
-- Production-first AI (not demos)
-- Clear APIs and clean abstractions
+### 🎯 Engineering Philosophy
 
----
+LLMs are not features — they are systems.
+I build them with:
 
-## 📫 Connect
-- LinkedIn: https://linkedin.com/in/matt-kay-vic
-- Email: matthewkayode007@gmail.com
+* deterministic components around probabilistic cores
+* clear data boundaries
+* measurable outputs
+* production-grade deployment practices
 
----
-_Always learning. Always building._
+
+What direction are you targeting?

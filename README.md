@@ -1,40 +1,52 @@
-## 🧠 AI/ML Engineer — LLM Systems on Google Cloud
+# 👋 Hi, I'm Kayode Matthew
 
-AI/ML Engineer with a strong backend foundation, building production-ready LLM systems using **Gemini**, **Vertex AI**, and **Google ADK**.
-
-I focus on turning generative AI into reliable software — designing RAG pipelines, agent workflows with tool calling, and scalable APIs that connect models to real data and services. My backend background helps me ship AI systems with proper architecture: observability, latency control, cost awareness, and clean service boundaries.
-
----
-
-### 🔧 What I Build
-
-* Retrieval-Augmented Generation (RAG) systems
-* Agent workflows using Google ADK
-* Tool/function calling pipelines with Gemini
-* LLM-backed APIs (FastAPI / Python)
-* Cloud-native deployments on GCP
-* Evaluation + monitoring for LLM quality
+### **Cloud-Native Software Engineer | Backend & Cloud**
+Building high-performance, secure, and resilient microservices architectures.
 
 ---
 
-### ⚙️ Stack
+## 🚀 About Me
 
-**AI/ML:** Gemini, Vertex AI, Google ADK
-**Backend:** Python, FastAPI
-**Cloud:** GCP (Cloud Run, Cloud Functions, etc.)
-**Data:** PostgreSQL, Redis
+I am a software engineer specializing in **cloud-native architectures**, sitting at the intersection of robust backend development and automated cloud infrastructure. I focus on writing highly efficient code, designing secure systems, and optimizing cloud environments for maximum scalability and minimum latency.
+
+* 🛠️ Currently building high-performance backend systems using **Rust** and **Node.js**.
+* ☁️ Designing and deploying secure, auto-scaling infrastructure on **Google Cloud Platform (GCP)**.
+* 🔒 Passionate about **Cloud Security**, implementing zero-trust architectures, and securing CI/CD pipelines.
+* ⚡ Obsessed with performance optimization, containerization, and Infrastructure as Code (IaC).
 
 ---
 
-### 🎯 Engineering Philosophy
+## 🛠️ Tech Stack & Toolbox
 
-LLMs are not features — they are systems.
-I build them with:
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Rust, JavaScript/TypeScript (Node.js), SQL |
+| **Cloud & Infrastructure** | Google Cloud Platform (GCP), Docker, Kubernetes, Terraform |
+| **Backend & Architecture** | Microservices, RESTful APIs, gRPC, Event-Driven Architecture |
+| **Security & DevSecOps** | IAM, VPC Security, Secret Management, CI/CD Pipeline Security |
 
-* deterministic components around probabilistic cores
-* clear data boundaries
-* measurable outputs
-* production-grade deployment practices
+---
 
+## 📈 Featured Projects
 
-What direction are you targeting?
+### BriskVTU - Backend High-Performance Microservice  & Cloud Infrastructure
+*Nigeria's fastest virtual top-up app for diaspora Nigerians. Fund in USD, pay in Naira—handle Nigeria utilitie, From airtime and data to electricity and everyday essentials, BriskVTU makes it easy to care for the people you love back home — fast, secure, and reliable*
+* **Tech:** Rust, Nodejs, Tokio, GCP Cloud Run, Docker
+* **Key Outcome:** Achieved sub-millisecond response times and automated deployment via GitHub Actions.
+* [briskvtu.com](https://briskvtu.com)
+
+### Glofleunce — Scalable Cloud-Native API
+*Glofluence is a people-powered marketing platform built to turn micro-actions into massive impact. We connect brands with a global community of users and Businesses.*
+* **Tech:** Node.js, Rust, TypeScript, GCP Cloud Run, PostgreSQL
+* **Key Outcome:** Designed a secure, auto-scaling backend handling 1,000 requests per minute.
+* [glofluence.com](https://glofluence.com)
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/matt-kay-vic](www.linkedin.com/in/matt-kay-vic)
+* 🌐 **Portfolio/Blog:** [matt-kay](https://github.com/matt-kay)
+* 📧 **Email:** matthewkayode007@gmail.com
+
+---

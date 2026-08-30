@@ -1,52 +1,59 @@
 # 👋 Hi, I'm Kayode Matthew
 
-### **Cloud-Native Software Engineer | Backend & Cloud**
-Building high-performance, secure, and resilient microservices architectures.
+### **Solutions Architect | Cloud Infrastructure & Enterprise Systems**
+
+Designing scalable, high-performance, and resilient cloud architectures that solve complex business friction.
 
 ---
 
 ## 🚀 About Me
 
-I am a software engineer specializing in **cloud-native architectures**, sitting at the intersection of robust backend development and automated cloud infrastructure. I focus on writing highly efficient code, designing secure systems, and optimizing cloud environments for maximum scalability and minimum latency.
+I am a **Solutions Architect** operating at the intersection of business strategy and cloud engineering. I specialize in designing **cloud-native solutions**, translating complex enterprise requirements into secure, cost-optimized, and highly available technical blueprints.
 
-* 🛠️ Currently building high-performance backend systems using **Rust** and **Node.js**.
-* ☁️ Designing and deploying secure, auto-scaling infrastructure on **Google Cloud Platform (GCP)**.
-* 🔒 Passionate about **Cloud Security**, implementing zero-trust architectures, and securing CI/CD pipelines.
-* ⚡ Obsessed with performance optimization, containerization, and Infrastructure as Code (IaC).
-
----
-
-## 🛠️ Tech Stack & Toolbox
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Rust, JavaScript/TypeScript (Node.js), SQL |
-| **Cloud & Infrastructure** | Google Cloud Platform (GCP), Docker, Kubernetes, Terraform |
-| **Backend & Architecture** | Microservices, RESTful APIs, gRPC, Event-Driven Architecture |
-| **Security & DevSecOps** | IAM, VPC Security, Secret Management, CI/CD Pipeline Security |
+* 🏗️ Architecting event-driven microservices and high-throughput systems using **Rust** and **Node.js**.
+* ☁️ Designing auto-scaling, multi-region cloud infrastructures on **Google Cloud Platform (GCP)**.
+* 🔒 Implementing enterprise-grade **Cloud Security**, zero-trust architectures, and DevSecOps pipelines.
+* ⚡ Balancing trade-offs across system design, FinOps, performance optimization, and Infrastructure as Code (IaC).
 
 ---
 
-## 📈 Featured Projects
+## 🛠️ Skills & Architectural Toolbox
 
-### BriskVTU - Backend High-Performance Microservice  & Cloud Infrastructure
-*Nigeria's fastest virtual top-up app for diaspora Nigerians. Fund in USD, pay in Naira—handle Nigeria utilitie, From airtime and data to electricity and everyday essentials, BriskVTU makes it easy to care for the people you love back home — fast, secure, and reliable*
-* **Tech:** Rust, Nodejs, Tokio, GCP Cloud Run, Docker
-* **Key Outcome:** Achieved sub-millisecond response times and automated deployment via GitHub Actions.
+| Category | Technologies & Capabilities |
+| --- | --- |
+| **System & Solutions Architecture** | Event-Driven Architecture, Microservices, System Integration, API Strategy, High Availability |
+| **Cloud & Infrastructure** | Google Cloud Platform (GCP), Docker, Kubernetes, Terraform, Serverless Patterns |
+| **Core Languages & Data** | Rust, JavaScript/TypeScript (Node.js), SQL, PostgreSQL, NoSQL |
+| **Security, FinOps & Governance** | IAM Strategy, Zero-Trust Architecture, VPC Design, Cloud Cost Optimization |
+
+---
+
+## 📈 Featured Architecture & Systems
+
+### BriskVTU — High-Performance Cloud Architecture
+
+*Nigeria's fastest virtual top-up app for diaspora Nigerians, handling international cross-border transactions and local utility fulfillments efficiently.*
+
+* **Architecture & Tech:** Rust, Node.js, Tokio, GCP Cloud Run, Docker, Terraform
+* **Key Outcome:** Designed a low-latency microservice architecture achieving sub-millisecond response times with automated CI/CD deployments.
 * [briskvtu.com](https://briskvtu.com)
 
-### Glofleunce — Scalable Cloud-Native API
-*Glofluence is a people-powered marketing platform built to turn micro-actions into massive impact. We connect brands with a global community of users and Businesses.*
-* **Tech:** Node.js, Rust, TypeScript, GCP Cloud Run, PostgreSQL
-* **Key Outcome:** Designed a secure, auto-scaling backend handling 1,000 requests per minute.
+### Glofluence — Micro-Task Engine & Marketing Platform
+
+*A scalable creator economy platform connecting global brands with users and businesses for automated campaign execution.*
+
+* **Architecture & Tech:** Node.js, Rust, TypeScript, GCP Cloud Run, PostgreSQL
+* **Key Outcome:** Architected a secure, auto-scaling API gateway and backend capable of scaling dynamically under peak loads.
 * [glofluence.com](https://glofluence.com)
 
 ---
 
 ## 🤝 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/matt-kay-vic](www.linkedin.com/in/matt-kay-vic)
-* 🌐 **Portfolio/Blog:** [matt-kay](https://github.com/matt-kay)
+* 💼 **LinkedIn:** [linkedin.com/in/matt-kay-vic](https://www.google.com/search?q=https://www.linkedin.com/in/matt-kay-vic)
+* 🌐 **GitHub:** [matt-kay](https://github.com/matt-kay)
 * 📧 **Email:** matthewkayode007@gmail.com
 
 ---
+
+Would you like to tailor any specific section for a particular industry niche (such as FinTech, AdTech, or SaaS)?

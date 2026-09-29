@@ -1,59 +1,19 @@
-# 👋 Hi, I'm Kayode Matthew
+# Hi there, I'm Kayode Matthew 👋
 
-### **Solutions Architect | Cloud Infrastructure & Enterprise Systems**
+I'm a **Backend & Distributed Systems Engineer** specializing in real-time **IoT infrastructure** and high-throughput cloud pipelines.
 
-Designing scalable, high-performance, and resilient cloud architectures that solve complex business friction.
+- 🔭 **Focus Areas:** Distributed State, High-Throughput Ingestion, Event-Driven Architecture, Edge-to-Cloud Telemetry
+- 🛠️ **Core Tech:** Go, GCP (Pub/Sub, Cloud Run, GKE, Bigtable), gRPC, MQTT, PostgreSQL, Docker/Kubernetes
+- ⚡ **Engineering Philosophy:** Clean, idiomatic Go, minimal latency, and fault-tolerant distributed design
 
----
+### 🧰 Tech Stack & Tools
 
-## 🚀 About Me
-
-I am a **Solutions Architect** operating at the intersection of business strategy and cloud engineering. I specialize in designing **cloud-native solutions**, translating complex enterprise requirements into secure, cost-optimized, and highly available technical blueprints.
-
-* 🏗️ Architecting event-driven microservices and high-throughput systems using **Rust** and **Node.js**.
-* ☁️ Designing auto-scaling, multi-region cloud infrastructures on **Google Cloud Platform (GCP)**.
-* 🔒 Implementing enterprise-grade **Cloud Security**, zero-trust architectures, and DevSecOps pipelines.
-* ⚡ Balancing trade-offs across system design, FinOps, performance optimization, and Infrastructure as Code (IaC).
-
----
-
-## 🛠️ Skills & Architectural Toolbox
-
-| Category | Technologies & Capabilities |
-| --- | --- |
-| **System & Solutions Architecture** | Event-Driven Architecture, Microservices, System Integration, API Strategy, High Availability |
-| **Cloud & Infrastructure** | Google Cloud Platform (GCP), Docker, Kubernetes, Terraform, Serverless Patterns |
-| **Core Languages & Data** | Rust, JavaScript/TypeScript (Node.js), SQL, PostgreSQL, NoSQL |
-| **Security, FinOps & Governance** | IAM Strategy, Zero-Trust Architecture, VPC Design, Cloud Cost Optimization |
+- **Languages:** Go, SQL, Bash
+- **Cloud & Infra (GCP):** Cloud Pub/Sub, Cloud Run, GKE, Dataflow, Bigtable, Cloud Functions, IAM, Terraform
+- **Protocols & Messaging:** gRPC, Protobuf, MQTT, WebSockets, Kafka, NATS
+- **Databases & Caching:** PostgreSQL, Redis, Firestore, TimescaleDB
+- **Observability & Ops:** OpenTelemetry, Prometheus, Grafana, Cloud Logging, Docker, CI/CD Pipelines
 
 ---
 
-## 📈 Featured Architecture & Systems
-
-### BriskVTU — High-Performance Cloud Architecture
-
-*Nigeria's fastest virtual top-up app for diaspora Nigerians, handling international cross-border transactions and local utility fulfillments efficiently.*
-
-* **Architecture & Tech:** Rust, Node.js, Tokio, GCP Cloud Run, Docker, Terraform
-* **Key Outcome:** Designed a low-latency microservice architecture achieving sub-millisecond response times with automated CI/CD deployments.
-* [briskvtu.com](https://briskvtu.com)
-
-### Glofluence — Micro-Task Engine & Marketing Platform
-
-*A scalable creator economy platform connecting global brands with users and businesses for automated campaign execution.*
-
-* **Architecture & Tech:** Node.js, Rust, TypeScript, GCP Cloud Run, PostgreSQL
-* **Key Outcome:** Architected a secure, auto-scaling API gateway and backend capable of scaling dynamically under peak loads.
-* [glofluence.com](https://glofluence.com)
-
----
-
-## 🤝 Connect With Me
-
-* 💼 **LinkedIn:** [linkedin.com/in/matt-kay-vic](https://www.google.com/search?q=https://www.linkedin.com/in/matt-kay-vic)
-* 🌐 **GitHub:** [matt-kay](https://github.com/matt-kay)
-* 📧 **Email:** matthewkayode007@gmail.com
-
----
-
-Would you like to tailor any specific section for a particular industry niche (such as FinTech, AdTech, or SaaS)?
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/matt-kay-vic-iot) • [X (Twitter)](https://x.com/Mattkayvic)

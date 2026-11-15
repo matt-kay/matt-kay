@@ -1,19 +1,6 @@
-# Hi there, I'm a Backend Engineer & IoT Specialist 👋
+As a Software Engineer at Black Emerald Technologies, I build the backend infrastructure that keeps real-time IoT networks running smoothly and brings AI agents to life. My day-to-day revolves around writing fast, concurrent Go services on GCP—whether I’m routing high-volume device telemetry through EMQX and Pub/Sub, or orchestrating scalable AI workflows with Google ADK. I care deeply about building systems that stay predictable under heavy load,keeping latency low, data intact, and APIs responsive when traffic spikes.
 
-I build high-throughput, cloud-native backend infrastructure that ingests, processes, and routes real-time telemetry streams for IoT platforms at **[Black Emerald Technologies](https://blackemeraldtech.com/)**.
-
-### 🛠️ What I Do
-* **IoT Cloud Infrastructure:** Architecting ingestion pipelines on AWS & GCP using AWS IoT Core, GCP Pub/Sub, and Kinesis on Kubernetes (EKS/GKE).
-* **High-Performance Go Services:** Writing concurrent, low-latency Golang microservices and gRPC APIs to process incoming MQTT device streams.
-* **Time-Series Storage:** Tuning time-series databases (TimescaleDB / InfluxDB) for high-write telemetry payloads and low-latency queries.
-* **Real-Time Data Delivery:** Building API gateways and WebSockets pipelines to stream live device state to dashboards and downstream services.
-
-### 💻 Tech Stack
-* **Languages:** Go (Golang), SQL
-* **Cloud & DevOps:** AWS, GCP, Docker, Kubernetes
-* **IoT & Streaming:** MQTT, GCP Pub/Sub, AWS Kinesis, gRPC, WebSockets
-* **Databases:** TimescaleDB, InfluxDB, PostgreSQL
-
+At the core, I enjoy untangling the hard concurrency, networking, and scaling problems that come with distributed systems—from tuning time-series databases to building real-time WebSockets pipelines. If you're into Go, GCP, EMQX,or building practical AI infrastructure, feel free to reach out or connect; I'm always happy to chat shop! 
 ---
 
 🌐 **Website:** [blackemeraldtech.com](https://blackemeraldtech.com/)
